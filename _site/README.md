@@ -1,20 +1,44 @@
 # ProjectGuide
-Provides Information about the Company Mission, Vision Statement, Roadmap, Getting Started with the Repository
+This guide will provide information about the project, the mission statement, roadmap and how to get Started.
 
 
+#Community
+
+Twitch Broadcast
+1-hour twitch broadcast to discuss current topics and provide code overviews.
+(list of Broadcasts will be posted here)
 
 
-#Pair Programming
+#Organizational Breakdown
+
+The organization will be broken down into scrum teams of 2-4.
+
+The idea is that each team will be working on a self-sufficient service in an asynchronous manner.
 
 
-#Github Landing Page
-The landing page should be developer friendly.
+#Teams
+The following describes the breakdown of the teams.
 
 
+Ethics Team-
+Advisors:
+1) Will contribute to the mission/vision statement
+2) Will describe the ethical boundaries
 
 
+Evangelise Team -
+Advisors:
+1) Will attend social events and look for contributors
+2) Will grow the user base
 
-#Mobile Application
+Mobile Application Team -
+Advisors:
+1) Create Mobile Application
 
-Requirements
-1. Should be easy to add new
+Web Application Team -
+Advisors:
+1) Create Web-based Application
+
+Machine Learning Codebase Team-
+Advisors:
+1) Provide ways to improve the recommendation algorithm
