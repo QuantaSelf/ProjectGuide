@@ -4,12 +4,66 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts2</h1>
+  <h1 class="page-heading">Quant Self Landing Page</h1>
 
-  {% include ./README.md %}
 
-  <ul class="post-list">
-    {% for post in site.posts %}
+  <p>
+    <h2> ProjectGuide </h2>
+
+    <p>
+      This guide will provide information about the project, the mission statement,
+      roadmap and how to get Started.
+
+      <p/>
+
+
+      <h2> Community </h2>
+
+      Twitch Broadcast
+      1-hour twitch broadcast to discuss current topics and provide code overviews.
+      (list of Broadcasts will be posted here)
+
+
+      <h1> Organizational Breakdown </h1>
+
+      The organization will be broken down into scrum teams of 2-4.
+
+      The idea is that each team will be working on a self-sufficient service in an asynchronous manner.
+
+
+      <h2> Teams </h2>
+      The following describes the breakdown of the teams.
+
+
+      Ethics Team-
+      Advisors:
+      1) Will contribute to the mission/vision statement
+      2) Will describe the ethical boundaries
+
+
+      Evangelize Team -
+      Advisors:
+      1) Will attend social events and look for contributors
+      2) Will grow the user base
+
+      Mobile Application Team -
+      Advisors:
+      1) Create Mobile Application
+
+      Web Application Team -
+      Advisors:
+      1) Create Web-based Application
+
+      Machine Learning Codebase Team-
+      Advisors:
+      1) Provide ways to improve the recommendation algorithm
+
+
+    </p>
+
+
+    <ul class="post-list">
+      {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -17,12 +71,12 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
         </h2>
       </li>
-    {% endfor %}
-  </ul>
+      {% endfor %}
+    </ul>a
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 
-</div>
+
+
+  </div>

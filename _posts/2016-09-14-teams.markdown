@@ -1,20 +1,9 @@
-# ProjectGuide
-This guide will provide information about the project, the mission statement, roadmap and how to get Started.
-
-
-#Community
-
-Twitch Broadcast
-1-hour twitch broadcast to discuss current topics and provide code overviews.
-(list of Broadcasts will be posted here)
-
-
-#Organizational Breakdown
-
-The organization will be broken down into scrum teams of 2-4.
-
-The idea is that each team will be working on a self-sufficient service in an asynchronous manner.
-
+---
+layout: post
+title:  "Teams"
+date:   2016-09-14 14:30:07 -0700
+categories: education
+---
 
 #Teams
 The following describes the breakdown of the teams.

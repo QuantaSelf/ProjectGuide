@@ -26,7 +26,7 @@ Advisors:
 2) Will describe the ethical boundaries
 
 
-Evangelise Team -
+Evangelize Team -
 Advisors:
 1) Will attend social events and look for contributors
 2) Will grow the user base
